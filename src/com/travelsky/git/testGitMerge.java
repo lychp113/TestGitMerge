@@ -11,6 +11,9 @@ public class testGitMerge {
 	public static void testDev2() {
 		System.out.println("dev分支测试2");
 	}
+	public static void testDev3() {
+		System.out.println("dev分支测试3");
+	}
 	public static void main(String[] args) {
 		System.out.println("helloworld");
 		testDev();
